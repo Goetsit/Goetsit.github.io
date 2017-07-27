@@ -1,10 +1,12 @@
 
 #Container {
-margin-top: 20px;
-margin-bottom: 20px;
-margin-right: 20px
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
 
   background-color: #D3D3D3 
   text-align: left;
 }
+
 
