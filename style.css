@@ -1,23 +1,22 @@
 
-#Container {
-	position: fixed;
-	width: 97.5%;
-	margin-top: -20px;
-	height: 60px;
 
-  background-color: #D3D3D3 
-  text-align: left;
-}
-
-#Resumebody {
+#contact {
 
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-
-  background-color: #D3D3D3 
-  text-align: left;
 	
+	h2{500px;
+	}
 }
+
+body {
+
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+}
+
 
