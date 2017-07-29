@@ -1,6 +1,6 @@
 
 
-.header {
+#header {
 background-color: #ADD8E6
 }
 
@@ -9,12 +9,12 @@ background-color: #ADD8E6
 
 }
 
-.name {
+#name {
 float:Left;
 font-size: 20px
 }
 
-.email {
+#email {
 float:right;
 font-size; 16px
 }
