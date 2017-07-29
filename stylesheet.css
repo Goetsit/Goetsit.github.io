@@ -21,6 +21,16 @@ float:right;
 font-size: 16px;
 }
 
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #18329B;
+	margin-bottom: 10px;
+}
+
 .container {
   background-color: #D3D3D3;
 }
