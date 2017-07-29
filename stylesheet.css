@@ -13,6 +13,7 @@ font-size: 45px;
 #email {
 float:right;
 font-size: 16px;
+padding-top: 5px;
 }
 
 #phone {
