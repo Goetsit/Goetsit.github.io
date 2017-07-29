@@ -5,3 +5,10 @@
 background-color: #ADD8E6;
 margin-bottom: 10px;
 }
+
+
+
+#name {
+float:Left;
+font-size: 45px;
+}
