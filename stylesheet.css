@@ -5,10 +5,6 @@ position: fixed;
 background-color: #ADD8E6;
 }
 
-.container {
-  background-color: #D3D3D3;
-}
-
 .name {
 float:Left;
 font-size: 200px;
@@ -18,3 +14,8 @@ font-size: 200px;
 float:right;
 font-size: 160px;
 }
+
+.container {
+  background-color: #D3D3D3;
+}
+
