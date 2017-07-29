@@ -1,21 +1,21 @@
 
 
-.header {
+#header {
 position: fixed;
 background-color: #ADD8E6;
 }
 
-.name {
+#name {
 float:Left;
 font-size: 200px;
 }
 
-.email {
+#email {
 float:right;
 font-size: 160px;
 }
 
-.container {
+#container {
   background-color: #D3D3D3;
 }
 
