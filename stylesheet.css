@@ -15,6 +15,11 @@ float:right;
 font-size: 16px;
 }
 
+#phone {
+float:right;
+font-size: 16px;
+}
+
 .container {
   background-color: #D3D3D3;
 }
