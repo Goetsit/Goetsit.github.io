@@ -31,8 +31,7 @@ font-size: 16px;
 	position: relative;
 	float: left;
 	margin-top: 50px;
-	width: 10%;
-	height: 400px;
+	width: 20px;
 	background-color: #18329B;
 	margin-bottom: 10px;
 }
@@ -41,6 +40,9 @@ font-size: 16px;
 
 
 .container {
+margin-left: 5px;
+margin-right: 5px;
+margin-top: -10px;
   background-color: #D3D3D3;
 }
 
