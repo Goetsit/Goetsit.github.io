@@ -2699,7 +2699,8 @@
 
 		#header .logo {
 			color: #f6755e;
-			font-family: "Pacifico", cursive;
+			font-family: FontAwesome;
+			font-style: normal;
 			font-size: 2.5em;
 			letter-spacing: 2px;
 			margin-top: -5px;
