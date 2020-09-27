@@ -18,7 +18,7 @@
 
 		var	$window = $(window),
 			$body = $('body'),
-		        $actions = $('#actions'),
+		        $contact = $('#contact'),
 			$header = $('#header');
 
 		// Disable animations/transitions until the page has loaded.
@@ -50,7 +50,7 @@
 		
 			$('.scrollyActions').scrolly({
 				offset: function() {
-					return $actions.height();
+					return $contact.height();
 				}
 			});
 
