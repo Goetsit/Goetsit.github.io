@@ -18,6 +18,7 @@
 
 		var	$window = $(window),
 			$body = $('body'),
+		        $contact = $('#contact'),
 			$header = $('#header');
 
 		// Disable animations/transitions until the page has loaded.
