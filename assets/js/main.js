@@ -47,7 +47,7 @@
 					return $header.height();
 				}
 			});
-		
+		console.log($contact);
 			$('.scrollyActions').scrolly({
 				offset: function() {
 					return $contact.height();
