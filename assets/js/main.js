@@ -48,7 +48,7 @@
 				}
 			});
 		console.log($contact);
-			$('.scrollyActions').scrolly({
+			$('.scrolly').scrolly({
 				offset: function() {
 					return $contact.height();
 				}
