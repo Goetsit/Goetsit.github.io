@@ -1,0 +1,59 @@
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #191C26; /* Background color */
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .profile-picture {
+    width: 200px; /* Adjust size as needed */
+    height: 200px; /* Adjust size as needed */
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .profile-picture img {
+    width: 100%;
+    height: auto;
+  }
+  .welcome-text {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px;
+  }
+  .button {
+    padding: 20px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Added color transition */
+    color: white; /* Button text color */
+  }
+  .voiceover {
+    background-color: #000000; /* Black color for voiceover button */
+  }
+  .tech {
+    background-color: #000000; /* Black color for tech button */
+  }
+  .art {
+    background-color: #000000; /* Black color for art button */
+  }
+  .button:hover {
+    background-color: #394d63; /* Hover color */
+  }
